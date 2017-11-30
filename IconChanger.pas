@@ -1,5 +1,4 @@
 unit IconChanger;
-{shaped by shapeless}
 
 interface
 
